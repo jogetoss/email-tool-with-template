@@ -1,6 +1,6 @@
 # Description
 
-This repository is meant to serve as a general template for how to set up new repositories in the JogetOSS organization. 
+This email tool plugin allows a template to be used to be included in the email message
 
 # Getting Help
 
