@@ -1,6 +1,6 @@
 # Description
 
-This email tool plugin allows a template to be used to be included in the email message
+This process tool plugin sends email message to targeted recipient(s), with ability to select a body template via hash variable.
 
 # Getting Help
 
