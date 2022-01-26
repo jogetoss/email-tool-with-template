@@ -1,6 +1,6 @@
 # Description
 
-This process tool plugin sends email message to targeted recipient(s), with ability to select a body template via hash variable.
+This process tool plugin sends email message to targeted recipient(s), with ability to use a body template via hash variable.
 
 # Getting Help
 
