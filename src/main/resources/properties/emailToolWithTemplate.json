@@ -28,7 +28,7 @@
     {
         "name" : "bodyTemplate",
         "label" : "Message Body Template",
-        "description" : "Use <b>$(body)</b> notation in the template value to include the message.",        
+        "description" : "Use <b>$(body)</b> notation in the template value to include the message. You may make use of hash variable (i.e #envVariable.emailTemplate# to populate the template.",        
         "type" : "textfield",
         "required" : "true"
     },

@@ -14,7 +14,7 @@ public class EmailToolWithTemplate extends EmailTool {
     
     @Override
     public String getDescription() {
-        return "Sends email message to targeted recipient(s), with ability to select a body template via hash variable.";
+        return "Sends email message to targeted recipient(s), with ability to use a body template via hash variable.";
     }
     
     @Override
