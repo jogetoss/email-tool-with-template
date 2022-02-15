@@ -2,6 +2,9 @@
 
 This process tool plugin sends email message to targeted recipient(s), with ability to use a body template via hash variable.
 
+Do see [documentation](https://dev.joget.org/community/display/marketplace/Email+Tool+with+Template).
+
+
 # Getting Help
 
 JogetOSS is a community-led team for open source software related to the [Joget](https://www.joget.org) no-code/low-code application platform.
